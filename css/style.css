@@ -8,6 +8,19 @@ header {
     background-image: url(../img/pattern.png);
 }
 
+thead {
+    color: white;
+    background-color: #4EA0FF;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+.riga-dispari {
+    background-color: aquamarine;
+}
+
 #info-articolo {
     color: grey;
     margin-bottom: 20px;
