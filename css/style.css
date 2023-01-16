@@ -13,3 +13,22 @@ img {
     height: 50px;
     padding-top: 100px;
 }
+
+.info-articolo {
+    color: grey;
+}
+
+#nome-articolo {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#autore {
+}
+
+#data {
+}
+
+#nome{
+    color: #30AFE6;
+}
