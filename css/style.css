@@ -23,6 +23,10 @@ thead {
     text-align: left;
 }
 
+figcaption {
+    font-size: 10px;
+}
+
 .evidenziato {
     background-color: yellow;
 }
@@ -56,10 +60,6 @@ thead {
 }
 
 #data {
-    font-size: 10px;
-}
-
-#didascalia-foto {
     font-size: 10px;
 }
 
