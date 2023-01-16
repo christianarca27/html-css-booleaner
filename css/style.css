@@ -1,16 +1,26 @@
 body {
-    margin: 0;   
+    margin: 0;
 }
 
 header {
+    margin: 0;
     height: 170px;
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
 }
 
+main {
+    margin: 0 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
 thead {
     color: white;
-    background-color: #4EA0FF;
+    background-color: #20A9E5;
+    text-align: left;
 }
 
 .evidenziato {
@@ -18,7 +28,11 @@ thead {
 }
 
 .riga-dispari {
-    background-color: aquamarine;
+    background-color: #B1E5F2;
+}
+
+.colonna-corta {
+    width: 20%;
 }
 
 #info-articolo {
@@ -42,6 +56,10 @@ thead {
 }
 
 #data {
+    font-size: 10px;
+}
+
+#didascalia-foto {
     font-size: 10px;
 }
 
