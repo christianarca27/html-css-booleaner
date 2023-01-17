@@ -39,12 +39,15 @@ figcaption {
     width: 20%;
 }
 
-#info-articolo {
+.scritta-grigia {
     color: grey;
+}
+
+#info-articolo {
     margin-bottom: 20px;
 }
 
-#nome-articolo {
+#titolo-articolo {
     margin-top: 20px;
     margin-bottom: 0;
 }
@@ -63,6 +66,6 @@ figcaption {
     font-size: 10px;
 }
 
-#nome{
+#nome {
     color: #30AFE6;
 }
