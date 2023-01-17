@@ -9,11 +9,7 @@ nav {
     background-image: url(../img/pattern.png);
 }
 
-main {
-    margin: 0 10px;
-}
-
-footer {
+main, footer, #nav-inner {
     margin: 0 10px;
 }
 
