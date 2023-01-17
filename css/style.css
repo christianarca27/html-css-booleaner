@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-header {
+nav {
     margin: 0;
     height: 170px;
     background-color: #4EA0FF;
@@ -35,20 +35,26 @@ ul {
     padding-left: 10px;
 }
 
+figure {
+    margin: 0;
+}
+
 figcaption {
     font-size: 10px;
 }
 
-.evidenziato {
-    background-color: yellow;
+nav img {
+    width: 200px;
+    height: 50px;
+    padding-top: 100px;
 }
 
 .riga-dispari {
     background-color: #B1E5F2;
 }
 
-.colonna-corta {
-    width: 20%;
+.colonna-lunga {
+    width: 50%;
 }
 
 .scritta-grigia {
@@ -74,12 +80,6 @@ figcaption {
 #titolo-articolo {
     margin-top: 20px;
     margin-bottom: 0;
-}
-
-#logo {
-    width: 200px;
-    height: 50px;
-    padding-top: 100px;
 }
 
 #autore {
