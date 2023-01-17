@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+}
+
+header {
+    margin: 0;
+    height: 170px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+}
+
+main {
+    margin: 0 100px;
+}
+
+footer {
+    margin: 0 100px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: #20A9E5;
+    text-align: left;
+}
+
+h4 {
+    margin: 0;
+}
+
+ul {
+    padding-left: 10px;
+}
+
+figcaption {
+    font-size: 10px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+.riga-dispari {
+    background-color: #B1E5F2;
+}
+
+.colonna-corta {
+    width: 20%;
+}
+
+.scritta-grigia {
+    color: grey;
+}
+
+.suggerimenti {
+    display: block;
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-size: contain;
+    color: white;
+}
+
+#info-articolo {
+    margin-bottom: 20px;
+}
+
+#titolo-articolo {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#logo {
+    width: 200px;
+    height: 50px;
+    padding-top: 100px;
+}
+
+#autore {
+    font-size: 14px;
+}
+
+#data {
+    font-size: 10px;
+}
+
+#nome {
+    color: #30AFE6;
+}
+
+#primo-suggerimento {
+    background-image: url(../img/monitor.jpg);
+}
+
+#secondo-suggerimento {
+    background-image: url(../img/graph.jpg);
+}
