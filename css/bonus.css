@@ -69,7 +69,7 @@ nav img {
     margin-bottom: 10px;
     padding-top: 10px;
     padding-left: 10px;
-    background-size: contain;
+    background-size: cover;
     color: white;
 }
 
